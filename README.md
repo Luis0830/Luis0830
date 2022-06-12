@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Luis Garcia 
+## 👋 Hi, I’m Luis Garcia 
 - 🌱 I’m currently learning Redux
 - I love exploring and creating 🚀 I'm a lifelong learner
-- Since I started coding I haven't stopped learning and creating
+- Since I started coding I haven't stopped learning and creating :star2:
 
 ### lenguages and tools:
 
