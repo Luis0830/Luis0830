@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Luis Garcia 
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Backend development
 - I love exploring and creating 🚀 I'm a lifelong learner
 - Since I started coding I haven't stopped learning and creating :star2:
 
