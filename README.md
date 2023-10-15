@@ -9,7 +9,7 @@
 - 📫 How to reach me **luiscarlosgarcia0830@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif"
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)">
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/luisc-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luisc-garcia" height="30" width="40" /></a>
 </p>
